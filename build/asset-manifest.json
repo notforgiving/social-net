@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/social-net/static/css/main.5cacfde2.chunk.css",
+    "main.js": "/social-net/static/js/main.bd7331bd.chunk.js",
+    "main.js.map": "/social-net/static/js/main.bd7331bd.chunk.js.map",
+    "runtime-main.js": "/social-net/static/js/runtime-main.5e1fe442.js",
+    "runtime-main.js.map": "/social-net/static/js/runtime-main.5e1fe442.js.map",
+    "static/js/2.7af9ad6c.chunk.js": "/social-net/static/js/2.7af9ad6c.chunk.js",
+    "static/js/2.7af9ad6c.chunk.js.map": "/social-net/static/js/2.7af9ad6c.chunk.js.map",
+    "index.html": "/social-net/index.html",
+    "static/css/main.5cacfde2.chunk.css.map": "/social-net/static/css/main.5cacfde2.chunk.css.map",
+    "static/js/2.7af9ad6c.chunk.js.LICENSE.txt": "/social-net/static/js/2.7af9ad6c.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.53bfe11e.svg": "/social-net/static/media/bitcoin.53bfe11e.svg",
+    "static/media/home.b0189fdb.svg": "/social-net/static/media/home.b0189fdb.svg",
+    "static/media/messages.62c68938.svg": "/social-net/static/media/messages.62c68938.svg",
+    "static/media/news.72cf49aa.svg": "/social-net/static/media/news.72cf49aa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e1fe442.js",
+    "static/js/2.7af9ad6c.chunk.js",
+    "static/css/main.5cacfde2.chunk.css",
+    "static/js/main.bd7331bd.chunk.js"
+  ]
+}
